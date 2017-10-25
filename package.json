@@ -1,0 +1,21 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "mime": "^2.0.3",
+    "mime-db": "^1.30.0",
+    "mime-lookup": "0.0.2",
+    "socket.io": "^2.0.4"
+  }
+}
